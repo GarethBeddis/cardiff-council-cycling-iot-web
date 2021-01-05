@@ -84,7 +84,7 @@
   },
   "dependencies": {
     "apexcharts": "^3.6.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt": "^3.0.4",
     "cookie-parser": "^1.4.3",
     "date-fns": "^2.0.0-alpha.16",
